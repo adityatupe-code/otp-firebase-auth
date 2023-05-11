@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-![Uploading chrome_4vtjmwER4t.png…]()
+<img width="960" alt="templatequora" src="https://github.com/adityatupe-code/otp-firebase-auth/assets/114912746/aee6fd29-80c5-4bca-a6db-7304cf4aa1fc">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
