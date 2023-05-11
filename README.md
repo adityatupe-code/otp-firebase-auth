@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+<img width="203" alt="firebaseauth" src="https://github.com/adityatupe-code/otp-firebase-auth/assets/114912746/7b779e46-8739-4082-b879-c1b709f191e0">
 
 
 
